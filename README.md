@@ -1,4 +1,4 @@
-# Happy Birthday Tenplate Design
+# Happy Birthday Template Design
 
 Website - [Happy-Birthday](https://somuappu75.github.io/Happy-Birthday/)
 
